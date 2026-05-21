@@ -1,0 +1,12 @@
+[submodule "sem1-linguagem-python-big-data"]
+	path = sem1-linguagem-python-big-data
+	url = https://github.com/alexribeirofaria/sem1-linguagem-python-big-data.git
+[submodule "sem1-business-analytics-npg7688"]
+	path = sem1-business-analytics-npg7688
+	url = https://github.com/alexribeirofaria/sem1-business-analytics-npg7688.git
+[submodule "sem1-aprendizado-profundo-deep-learning"]
+	path = sem1-aprendizado-profundo-deep-learning
+	url = https://github.com/alexribeirofaria/sem1-aprendizado-profundo-deep-learning.git
+[submodule "sem2-tecnologias-avancadas"]
+	path = sem2-tecnologias-avancadas
+	url = https://github.com/alexribeirofaria/sem2-tecnologias-avancadas.git
